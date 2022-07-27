@@ -61,7 +61,7 @@ const Navbar = () => {
         </Left>
         <Center></Center>
         <Right>
-              <MenuBar>SignIn</MenuBar>
+              <MenuBar>Contact</MenuBar>
               <MenuBar>
                   <AddCircleOutline/>
               </MenuBar>
